@@ -10,7 +10,7 @@ const EasterEggs = () => {
     if (!isDevToolsOpen) return;
     // console.log(
     //   "%cWhoa, look at you! 🕵️‍♂️\n\n" +
-    //     "Peeking under the hood, eh? Just be careful, " +
+    //     "Peeking under the hood, eh? Just be careful,      " +
     //     "you might find some 🐛 bugs that even I didn't know about! 😅\n\n" +
     //     "By the way, did you know the console is a portal to another dimension? 🌌 " +
     //     "Just kidding... or am I? 👽\n\n" +
